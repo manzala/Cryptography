@@ -3,7 +3,7 @@ ct_alph = 'DEFHIJKLMNOPQRSTUVWXYZABC'
 
 
 def encrypt(key, plaintext):
-    # initailize the ciphertext to an empty string
+    # initailize the ciphertext to an empty string.
     ciphertext = ''
 
     # iterate through over through each letter in the plaintext
